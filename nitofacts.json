@@ -1,0 +1,104 @@
+{
+    "nitofact1": {
+        "en": {
+            "title": "NitoFact # 1 - Did you know...",
+            "content": "The Nito blockchain was launched on Saturday, 6th July 2024. Its Genesis block is encoded with \"Nito/Core Genesis 6/9.\". Distribution will span 200 years with the first halving occurring in 2064 after 40 years.",
+            "url": "",
+            "link_social": "",
+            "link_html": "",
+            "link_md": ""
+        }
+    },
+    "nitofact2": {
+        "en": {
+            "title": "NitoFact # 2 - Did you know...",
+            "content": "Nito has a fixed supply of just over 2.7 billion coins (2,763,394,496 NITO). Distribution will span multiple generations, with halvings occurring once every 40 years. The last Nito coin will be mined in 2224, approximately 200 years after the Genesis block.",
+            "url": "",
+            "link_social": "",
+            "link_html": "",
+            "link_md": ""
+        }
+    },
+    "nitofact3": {
+        "en": {
+            "title": "NitoFact # 3 - Did you know...",
+            "content": "Nito blocks are mined approximately once every 60 seconds, allowing for fast confirmation of transactions. Legacy wallets are not supported – only bech32 and better. Combined, this makes Nito 10 times faster than Bitcoin.",
+            "url": "",
+            "link_social": "",
+            "link_html": "",
+            "link_md": ""
+        }
+    },
+    "nitofact4": {
+        "en": {
+            "title": "NitoFact # 4 - Did you know...",
+            "content": "The economic model of Nito is built for long-term sustainability. The total supply of 2.76 Billion Nitos will distributed gradually over 200 years. This allows Nito to maintain steady and predictable growth, giving multiple generations the opportunity to mine and accumulate coins.",
+            "url": "",
+            "link_social": "",
+            "link_html": "",
+            "link_md": ""
+        }
+    },
+    "nitofact5": {
+        "en": {
+            "title": "NitoFact # 5 - Did you know...",
+            "content": "The smallest unit of NITO is a Nitoshi. There are are 100,000,000 Nitoshi in 1 NITO. The name Nitoshi takes inspiration from a Satoshi, Bitcoin's smallest unit.",
+            "url": "",
+            "link_social": "",
+            "link_html": "",
+            "link_md": ""
+        }
+    },
+    "nitofact6": {
+        "en": {
+            "title": "NitoFact # 6 - Did you know...",
+            "content": "The multi-generational distribution of NITO coins means that the unfair advantage given to early adopters of other blockchains is minimized. For the first 40 years the block reward will remain unchanged at 64 NITO per block, occurring once per minute. Blockchain halvings will occur once every 40 years.",
+            "url": "",
+            "link_social": "",
+            "link_html": "",
+            "link_md": ""
+        }
+    },
+    "nitofact7": {
+        "en": {
+            "title": "NitoFact # 7 - Did you know...",
+            "content": "The official website for the Nito blockchain can be found at",
+            "url": "https://nito.org",
+            "link_social": ": https://nito.org",
+            "link_html": " <a target=\"_blank\" href=\"https://nito.org\">here</a>.",
+            "link_md": " [https://nito.org](https://nito.org)."
+        }
+    },
+    "nitofact8": {
+        "en": {
+            "title": "NitoFact # 8 - Did you know...",
+            "content": "The Nito codebase is a lightly modified version of Bitcoin Core. It takes the best features of Bitcoin 27, removes legacy code, and addresses Bitcoin's shortcomings to improve speed and efficiency. Segwit, bech32 and taproot are enabled by default. Base58 segwit and base58 legacy are removed. Nito Core runs with less than 2Gb RAM, making it inexpensive to run on a VPS or low power device such as a single-board computer.",
+            "url": "",
+            "link_social": "",
+            "link_html": "",
+            "link_md": ""
+        }
+    },
+    "nitofact9": {
+        "en": {
+            "title": "NitoFact # 9 - Did you know...",
+            "content": "Nito features a real-time difficulty adjustment algorithm that was written specifically for Nito. It is designed to efficiently and automatically adjust the difficulty after each block, preventing periods of rapid or very slow block creation that can follow sudden, dramatic changes in network hashrate. This results in a more stable and reliable experience for both users, miners and developers.",
+            "url": "",
+            "link_social": "",
+            "link_html": "",
+            "link_md": ""
+        }
+    },
+    "nitofact10": {
+        "en": {
+            "title": "NitoFact # 10 - Did you know...",
+            "content": "Like Bitcoin, Nito uses the SHA256 mining algorithm. SHA256 was chosen due to its robustness, security, and efficiency. SHA256 mining hardware is widely available allowing anyone to easily participate, and existing Bitcoin mining infrastructure can be easily adapted to add support for Nito.",
+            "url": "",
+            "link_social": "",
+            "link_html": "",
+            "link_md": ""
+        }
+    }
+}
+
+ 
