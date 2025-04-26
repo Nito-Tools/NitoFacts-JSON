@@ -102,7 +102,7 @@
     "nitofact11": {
         "en": {
             "title": "NitoFact # 11 - Did you know...",
-            "content": "Nito's original developer(s) is anonymous. This prevents the cult of celebrity that can often form around the founder of blockchain projects. The Nito Core software is open source for anyone to review and the Nito project is owned and nurtured by its global community of users.",
+            "content": "There are currently $block_height blocks in the Nito blockchain. The next major milestone will take place in $milestone_next_days days when the Nito blockchain will pass $milestone_next_mil Million blocks! This will happen at approximately $milestone_next_time on $milestone_next_date.",
             "url": "",
             "link_social": "",
             "link_html": "",
@@ -142,16 +142,6 @@
     "nitofact15": {
         "en": {
             "title": "NitoFact # 15 - Did you know...",
-            "content": "There are currently $block_height blocks in the Nito blockchain. The next major milestone will take place in $milestone_next_days days when the Nito blockchain will pass $milestone_next_mil Million blocks! This will happen at approximately $milestone_next_time on $milestone_next_date.",
-            "url": "",
-            "link_social": "",
-            "link_html": "",
-            "link_md": ""
-        }
-    },
-    "nitofact16": {
-        "en": {
-            "title": "NitoFact # 16 - Did you know...",
             "content": "There are currently $block_height blocks in the Nito blockchain. The next major milestone will take place in $milestone_next_days days when the Nito blockchain will pass $milestone_next_mil Million blocks! This will happen at approximately $milestone_next_time on $milestone_next_date.",
             "url": "",
             "link_social": "",
