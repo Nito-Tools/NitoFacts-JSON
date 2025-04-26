@@ -62,9 +62,10 @@ If you wish to insert live data into a NitoFact, please edit the nitofacts.json 
 |--------------------------------|-------------------|-----------------------------------------------------|
 | ```$block_height```            | 1,238,764         | Displays the current number of Nito blocks, with comma seperator.  |
 | ```$blocks_tot_mil```          | 1.2               | Displays the current number of Nito blocks rounded to the nearest 0.1 million. |
-| ```$block_reward_current```    | 512               | The current Nito block reward. | 
-| ```$block_reward_next```       | 256               | The current Nito block reward. | 
 | ```$circ_supply```             | 203,986,880       | The current circulating supply of NITO. | 
+| ```$circ_supply_percent```     | 18.25%            | The current circulating supply of NITO as a percentage of the total. | 
+| ```$block_reward_current```    | 512               | The current Nito block reward. | 
+| ```$block_reward_next```       | 256               | The next Nito block reward (after the next halving). | 
 | ```$next_halving_date```       | 3 September 2025  | The date of the next halving  | 
 | ```$next_halving_time```       | 14:32 UTC         | The time of the next halving   | 
 | ```$next_halving_days```       | 225               | Days remaining till the next halving   | 

@@ -12,7 +12,7 @@
     "nitofact2": {
         "en": {
             "title": "NitoFact # 2 - Did you know...",
-            "content": "Nito has a fixed supply of just over 1.15 billion coins (2,763,394,496 NITO). Distribution spans 200 years giving multiple generations the opportunity to mine coins. 60% of the total supply will have been distributed at the end of Nitos first decade, with the remaining 40% distributed over the next 190 years.",
+            "content": "Nito has a fixed supply of just over 1.158 billion coins (1,158,422,400 NITO). Distribution spans 200 years giving multiple generations the opportunity to mine coins. 60% of the total supply will have been distributed at the end of Nitos first decade, with the remaining 40% distributed over the next 190 years.",
             "url": "",
             "link_social": "",
             "link_html": "",
@@ -32,7 +32,7 @@
     "nitofact4": {
         "en": {
             "title": "NitoFact # 4 - Did you know...",
-            "content": "The economic model of Nito is built for long-term sustainability. The total supply of 1.154 Billion NITO will be distributed over 200 years. This allows Nito to maintain steady and predictable growth, giving multiple generations the opportunity to mine and accumulate coins.",
+            "content": "The economic model of Nito is built for long-term sustainability. The total supply of 1.158 Billion NITO (1,158,422,400 NITO) will be distributed over 200 years. This allows Nito to maintain steady and predictable growth, giving multiple generations the opportunity to mine and accumulate coins.",
             "url": "",
             "link_social": "",
             "link_html": "",
@@ -122,7 +122,7 @@
     "nitofact13": {
         "en": {
             "title": "NitoFact # 13 - Did you know...",
-            "content": "The Nito Core software is incredibly lean and effient to run. It currently requires less than 1Gb RAM and under 5Gb disk space. This makes it very inexpensive to run - be it in the cloud on a VPS or a low power device such as a single-board computer (Raspberry Pi etc.).",
+            "content": "The Nito Core software is incredibly lean and effient. It currently requires less than 1Gb RAM and under 5Gb disk space. This makes running Nito Core very inexpensive - be it in the cloud on a VPS or a low power device such as a single-board computer (Raspberry Pi etc.).",
             "url": "",
             "link_social": "",
             "link_html": "",
@@ -132,7 +132,37 @@
     "nitofact14": {
         "en": {
             "title": "NitoFact # 14 - Did you know...",
-            "content": "Nito's current block reward is $block_reward_current NITO. This is the amount of coins awarded to the miner who finds the next block on the Nito blockchain. The next \"halving\" will occur in $next_halving_days days at approximately $next_halving_time on $next_halving_date when the block reward will drop to $block_reward_next NITO per block. ",
+            "content": "Nito's current block reward is $block_reward_current NITO. This is the reward given to the miner who secures each block on the Nito blockchain. The next \"halving\" will be in $next_halving_days days when the block reward will drop to $block_reward_next NITO per block. This will occur at approximately $next_halving_time on $next_halving_date.",
+            "url": "",
+            "link_social": "",
+            "link_html": "",
+            "link_md": ""
+        }
+    },
+    "nitofact15": {
+        "en": {
+            "title": "NitoFact # 15 - Did you know...",
+            "content": "There are currently $circ_supply NITO in circulation which is $circ_supply_percentage of the 1.158 Billion NITO total supply (1,158,422,400 NITO). Currently, $block_reward_current NITO enter the supply each minute as miners work to secure the network. It will take 200 years for the total supply of NITO to be distributed.",
+            "url": "",
+            "link_social": "",
+            "link_html": "",
+            "link_md": ""
+        }
+    },
+    "nitofact16": {
+        "en": {
+            "title": "NitoFact # 16 - Did you know...",
+            "content": "All existing software built for Bitcoin will work with Nito, with only a few small changes. This makes it easy to make Nito work with established software. Furthermore, all Bitcoin miners can be used to mine NITO since they use the same algorithm, SHA256.",
+            "url": "",
+            "link_social": "",
+            "link_html": "",
+            "link_md": ""
+        }
+    },
+    "nitofact17": {
+        "en": {
+            "title": "NitoFact # 17 - Did you know...",
+            "content": "The default listening port for Nito Core is 8820 for mainnet and 8840 for testnet. If you are running a Nito node, make sure you have opened the appropriate ports on your router so that other nodes can connect to you.",
             "url": "",
             "link_social": "",
             "link_html": "",
