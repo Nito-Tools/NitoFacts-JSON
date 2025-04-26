@@ -102,7 +102,7 @@
     "nitofact11": {
         "en": {
             "title": "NitoFact # 11 - Did you know...",
-            "content": "There are currently $block_height blocks in the Nito blockchain. The next major milestone will take place in $milestone_next_days days when the Nito blockchain will pass $milestone_next_mil Million blocks! This will happen at approximately $milestone_next_time on $milestone_next_date.",
+            "content": "There are currently approximately $block_height blocks in the Nito blockchain. The next major milestone will take place in $milestone_next_days days when the Nito blockchain will pass $milestone_next_mil Million blocks! This will happen at approximately $milestone_next_time on $milestone_next_date.",
             "url": "",
             "link_social": "",
             "link_html": "",
@@ -133,16 +133,6 @@
         "en": {
             "title": "NitoFact # 14 - Did you know...",
             "content": "Nito's current block reward is $block_reward_current NITO. This is the amount of coins awarded to the miner who finds the next block on the Nito blockchain. The next \"halving\" will occur in $next_halving_days days at approximately $next_halving_time on $next_halving_date when the block reward will drop to $block_reward_next NITO per block. ",
-            "url": "",
-            "link_social": "",
-            "link_html": "",
-            "link_md": ""
-        }
-    },
-    "nitofact15": {
-        "en": {
-            "title": "NitoFact # 15 - Did you know...",
-            "content": "There are currently $block_height blocks in the Nito blockchain. The next major milestone will take place in $milestone_next_days days when the Nito blockchain will pass $milestone_next_mil Million blocks! This will happen at approximately $milestone_next_time on $milestone_next_date.",
             "url": "",
             "link_social": "",
             "link_html": "",
