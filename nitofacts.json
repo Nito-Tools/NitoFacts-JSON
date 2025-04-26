@@ -2,7 +2,7 @@
     "nitofact1": {
         "en": {
             "title": "NitoFact # 1 - Did you know...",
-            "content": "The Nito blockchain was launched on Saturday, 6th July 2024. Its Genesis block is encoded with \"Nito/Core Genesis 6/9.\". Distribution will span 200 years with the first halving occurring in 2064 after 40 years.",
+            "content": "The Nito blockchain was launched on Saturday, 21st August 2024. Its Genesis block is encoded with \"Nito/Core Genesis 8-4.\". Nito was launched fairly with no pre-mine and the source code and binaries were immediately published to the Github repositary for anyone to install and begin mining.",
             "url": "",
             "link_social": "",
             "link_html": "",
@@ -12,7 +12,7 @@
     "nitofact2": {
         "en": {
             "title": "NitoFact # 2 - Did you know...",
-            "content": "Nito has a fixed supply of just over 2.7 billion coins (2,763,394,496 NITO). Distribution will span multiple generations, with halvings occurring once every 40 years. The last Nito coin will be mined in 2224, approximately 200 years after the Genesis block.",
+            "content": "Nito has a fixed supply of just over 1.15 billion coins (2,763,394,496 NITO). Distribution spans 200 years giving multiple generations the opportunity to mine coins. 60% of the total supply will have been distributed at the end of Nitos first decade, with the remaining 40% distributed over the next 190 years.",
             "url": "",
             "link_social": "",
             "link_html": "",
@@ -22,7 +22,7 @@
     "nitofact3": {
         "en": {
             "title": "NitoFact # 3 - Did you know...",
-            "content": "Nito blocks are mined approximately once every 60 seconds, allowing for fast confirmation of transactions. Legacy wallets are not supported – only bech32 and better. Combined, this makes Nito 10 times faster than Bitcoin.",
+            "content": "Nito blocks are mined approximately once every 60 seconds, allowing for fast confirmation of transactions. The 1 minute block time was chosen as it provided an optimal balance between speed and security. Less than one minute and the chain sees more orphaned and empty blocks. More than one minute and confirmation times become very long.",
             "url": "",
             "link_social": "",
             "link_html": "",
@@ -32,7 +32,7 @@
     "nitofact4": {
         "en": {
             "title": "NitoFact # 4 - Did you know...",
-            "content": "The economic model of Nito is built for long-term sustainability. The total supply of 2.76 Billion Nitos will distributed gradually over 200 years. This allows Nito to maintain steady and predictable growth, giving multiple generations the opportunity to mine and accumulate coins.",
+            "content": "The economic model of Nito is built for long-term sustainability. The total supply of 1.154 Billion NITO will be distributed over 200 years. This allows Nito to maintain steady and predictable growth, giving multiple generations the opportunity to mine and accumulate coins.",
             "url": "",
             "link_social": "",
             "link_html": "",
@@ -42,7 +42,7 @@
     "nitofact5": {
         "en": {
             "title": "NitoFact # 5 - Did you know...",
-            "content": "The smallest unit of NITO is a Nitoshi. There are are 100,000,000 Nitoshi in 1 NITO. The name Nitoshi takes inspiration from a Satoshi, Bitcoin's smallest unit.",
+            "content": "A single Nito can be divided up to 8 decimal places. The smallest unit of NITO is a Nitoshi. There are are 100,000,000 Nitoshi in 1 NITO. The name Nitoshi takes inspiration from a Satoshi, Bitcoin's smallest unit.",
             "url": "",
             "link_social": "",
             "link_html": "",
@@ -52,7 +52,7 @@
     "nitofact6": {
         "en": {
             "title": "NitoFact # 6 - Did you know...",
-            "content": "The multi-generational distribution of NITO coins means that the unfair advantage given to early adopters of other blockchains is minimized. For the first 40 years the block reward will remain unchanged at 64 NITO per block, occurring once per minute. Blockchain halvings will occur once every 40 years.",
+            "content": "The 200 year, multi-generational distribution of NITO coins means that the unfair advantage given to early adopters of other blockchains is minimized.",
             "url": "",
             "link_social": "",
             "link_html": "",
@@ -63,16 +63,16 @@
         "en": {
             "title": "NitoFact # 7 - Did you know...",
             "content": "The official website for the Nito blockchain can be found at",
-            "url": "https://nito.org",
-            "link_social": ": https://nito.org",
-            "link_html": " <a target=\"_blank\" href=\"https://nito.org\">here</a>.",
-            "link_md": " [https://nito.org](https://nito.org)."
+            "url": "https://nito.network",
+            "link_social": ": https://nito.network",
+            "link_html": " <a target=\"_blank\" href=\"https://nito.network\">here</a>.",
+            "link_md": " [https://nito.network](https://nito.network)."
         }
     },
     "nitofact8": {
         "en": {
             "title": "NitoFact # 8 - Did you know...",
-            "content": "The Nito codebase is a lightly modified version of Bitcoin Core. It takes the best features of Bitcoin 27, removes legacy code, and addresses Bitcoin's shortcomings to improve speed and efficiency. Segwit, bech32 and taproot are enabled by default. Base58 segwit and base58 legacy are removed. Nito Core runs with less than 2Gb RAM, making it inexpensive to run on a VPS or low power device such as a single-board computer.",
+            "content": "The Nito codebase is a lightly modified version of Bitcoin Core. It takes the best features of Bitcoin 27, removes legacy code, and addresses Bitcoin's shortcomings to improve speed and efficiency. Segwit, bech32 and taproot are enabled by default. Base58 segwit and base58 legacy are removed. This makes Nito blocks as efficient as possible.",
             "url": "",
             "link_social": "",
             "link_html": "",
@@ -98,7 +98,69 @@
             "link_html": "",
             "link_md": ""
         }
+    },
+    "nitofact11": {
+        "en": {
+            "title": "NitoFact # 11 - Did you know...",
+            "content": "Nito's original developer(s) is anonymous. This prevents the cult of celebrity that can often form around the founder of blockchain projects. The Nito Core software is open source for anyone to review and the Nito project is owned and nurtured by its global community of users.",
+            "url": "",
+            "link_social": "",
+            "link_html": "",
+            "link_md": ""
+        }
+    },
+    "nitofact12": {
+        "en": {
+            "title": "NitoFact # 12 - Did you know...",
+            "content": "There is no founders reward with the Nito blockchain. The reward for mining each block only ever goes to whoever mined it. No part of it goes to anyone else.",
+            "url": "",
+            "link_social": "",
+            "link_html": "",
+            "link_md": ""
+        }
+    },
+    "nitofact13": {
+        "en": {
+            "title": "NitoFact # 13 - Did you know...",
+            "content": "The Nito Core software is incredibly lean and effient to run. It currently requires less than 1Gb RAM and under 5Gb disk space. This makes it very inexpensive to run - be it in the cloud on a VPS or a low power device such as a single-board computer (Raspberry Pi etc.).",
+            "url": "",
+            "link_social": "",
+            "link_html": "",
+            "link_md": ""
+        }
+    },
+    "nitofact14": {
+        "en": {
+            "title": "NitoFact # 14 - Did you know...",
+            "content": "Nito's current block reward is $block_reward_current NITO. This is the amount of coins awarded to the miner who finds the next block on the Nito blockchain. The next \"halving\" will occur in $next_halving_days days at approximately $next_halving_time on $next_halving_date when the block reward will drop to $block_reward_next NITO per block. ",
+            "url": "",
+            "link_social": "",
+            "link_html": "",
+            "link_md": ""
+        }
+    },
+    "nitofact15": {
+        "en": {
+            "title": "NitoFact # 15 - Did you know...",
+            "content": "There are currently $block_height blocks in the Nito blockchain. The next major milestone will take place in $milestone_next_days days when the Nito blockchain will pass $milestone_next_mil Million blocks! This will happen at approximately $milestone_next_time on $milestone_next_date.",
+            "url": "",
+            "link_social": "",
+            "link_html": "",
+            "link_md": ""
+        }
+    },
+    "nitofact16": {
+        "en": {
+            "title": "NitoFact # 16 - Did you know...",
+            "content": "There are currently $block_height blocks in the Nito blockchain. The next major milestone will take place in $milestone_next_days days when the Nito blockchain will pass $milestone_next_mil Million blocks! This will happen at approximately $milestone_next_time on $milestone_next_date.",
+            "url": "",
+            "link_social": "",
+            "link_html": "",
+            "link_md": ""
+        }
     }
+     
 }
+
 
  

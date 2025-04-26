@@ -54,17 +54,26 @@ Important considerations:
 - URLs should be included both within the content text, and in the seperate URL field. This allows for easier processing. Please include only one URL per NitoFact.
 - NitoFacts about price will not be accepted - they are for educating the community about Nito only.
 
-### Using Dynamic Data in the NitoFacts
+### Using Live Data in the NitoFacts
 
-If you wish to insert dynamic data into a NitoFact, please edit the nitofacts.json file and insert any of the following variables:
+If you wish to insert live data into a NitoFact, please edit the nitofacts.json file and insert any of the following variables:
 
-| Variable               | Example Content | Note                                                |
-|------------------------|-----------------|-----------------------------------------------------|
-| ```$blocks_tot```      | 1238764         | Displays the current number of Nito blocks.  |
-| ```$blocks_tot_cs```   | 1,238,764       | Displays the current number of Nito blocks, with comma seperator. | 
-| ```$blocks_tot_mil```  | 1.2             | Displays the current number of Nito blocks rounded to the nearest 0.1 million. |
+| Variable        			     | Example Content   | Note                                                |
+|--------------------------------|-------------------|-----------------------------------------------------|
+| ```$block_height```            | 1,238,764         | Displays the current number of Nito blocks, with comma seperator.  |
+| ```$blocks_tot_mil```          | 1.2               | Displays the current number of Nito blocks rounded to the nearest 0.1 million. |
+| ```$block_reward_current```    | 512               | The current Nito block reward. | 
+| ```$block_reward_next```       | 256               | The current Nito block reward. | 
+| ```$circ_supply```             | 203,986,880       | The current circulating supply of NITO. | 
+| ```$next_halving_date```       | 3 September 2025  | The date of the next halving  | 
+| ```$next_halving_time```       | 14:32 UTC         | The time of the next halving   | 
+| ```$next_halving_days```       | 225               | Days remaining till the next halving   | 
+| ```$milestone_next_date```     | 29 July 2026      | The date of the next halving  | 
+| ```$milestone_next_time```     | 16:29 UTC         | The time of the next halving   | 
+| ```$milestone_next_days```     | 502               | Days remaining till the next halving   | 
 
-These variable will be replaced by live data every few minutes.
+
+These variable will be replaced by live data every minute.
 
 ## Disclaimer
 
